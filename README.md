@@ -357,6 +357,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C\#, ASP .NET and .NET Core
 
+- [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool) - Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, autocomplete, and debugging.
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)

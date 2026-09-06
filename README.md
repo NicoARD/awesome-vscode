@@ -357,7 +357,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C\#, ASP .NET and .NET Core
 
-- [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool) - Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, autocomplete, and debugging.
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
@@ -629,6 +628,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool)
+
+> Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, autocomplete, and debugging.
+
+![Query your DB using your DBContext and view results](https://i.imgur.com/QdQChSy.gif)
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
